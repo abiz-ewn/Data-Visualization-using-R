@@ -1,4 +1,4 @@
 # Data-Visualization-using-R
 
-What is R? How is it applied? What is the code? How is it coded?
+What is R? How do we code it?
 R is used to visualize data by creating graphs.
